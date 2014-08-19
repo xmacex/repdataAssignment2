@@ -1,1 +1,1 @@
-My assignment #2 for the Coursera course [Reproducible Research](https://class.coursera.org/repdata-005)
+My assignment #2 for the Coursera course [Reproducible Research](https://class.coursera.org/repdata-005). This one is about analysing environmental data in the US.
