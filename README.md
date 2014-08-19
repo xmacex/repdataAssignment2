@@ -1,0 +1,1 @@
+My assignment #2 for the Coursera course [Reproducible Research](https://class.coursera.org/repdata-005)
