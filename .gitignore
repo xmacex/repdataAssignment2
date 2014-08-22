@@ -3,6 +3,7 @@
 .RData
 *.Rproj
 StormData.csv.bz2
-cache
+cache/
 report.html
 report.md
+figure/
